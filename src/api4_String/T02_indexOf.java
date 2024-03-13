@@ -1,6 +1,6 @@
-package api2_String;
+package api4_String;
 
-public class T2_indexOf {
+public class T02_indexOf {
 	public static void main(String[] args) {
 		// 1번 숙제: 글자를 입력받아서 어떤 글자가 있는가 찾기
 		

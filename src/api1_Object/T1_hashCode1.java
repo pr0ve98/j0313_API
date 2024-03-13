@@ -57,5 +57,7 @@ public class T1_hashCode1 {
 		map3.put(new Bb("두번째"), "데이터3");
 		System.out.println(map3);
 		
+		// 주소와 hashCode가 같아야 같은 데이터로 본다
+		
 	}
 }
